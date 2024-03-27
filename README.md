@@ -59,3 +59,4 @@ The document's authenticity and integrity test failed and **Verification Failure
 <img width="948" alt="verify compromised docu" src="https://github.com/richard-acquah/Digital-Signature-with-OpenSSL/assets/136107996/6044d1c5-688f-4a90-9963-5744093bae08">
 
 ## Conclusion
+The digital signature ensures the document's authenticity, integrity, and nonrepudiation.
